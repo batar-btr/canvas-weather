@@ -1,11 +1,1 @@
-.add-coin {
-  width: 50%; }
-  .add-coin label {
-    display: inline-block;
-    width: 200px; }
-  .add-coin input {
-    text-align: right;
-    margin: 10px; }
-  .add-coin legend {
-    text-align: right;
-    color: #e2e2e2; }
+@import url("https://fonts.googleapis.com/css?family=Poiret+One");
